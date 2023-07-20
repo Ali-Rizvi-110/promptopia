@@ -10,7 +10,7 @@ const Home = () => {
             AI-POWERED-PROMTS
         </span>
         <p className='desc text-center'>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem, obcaecati! Quo voluptatem eveniet consequatur obcaecati est culpa! Reiciendis suscipit assumenda exercitationem, incidunt amet omnis ea autem minus debitis delectus dolorem.
+            Lorem ipsum dolor sit aet consectetur adipisicing elit. Voluptatem, obcaecati! Quo voluptatem eveniet consequatur obcaecati est culpa! Reiciendis suscipit assumenda exercitationem, incidunt amet omnis ea autem minus debitis delectus dolorem.
         </p>
         <Feed/>
     </section>
